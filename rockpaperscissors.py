@@ -19,7 +19,7 @@ while game_on == True:
 			print('\n')
 			time.sleep(1.5)
 		if answer == 'apache helicopter':
-			print('You destroyed the compeition! You are victorious!')
+			print('You destroyed the competition! You are victorious!')
 			print('\n')
 			time.sleep(1.5)
 		if answer == 'rock' and my_answer == 'scissors' or answer == 'paper' and my_answer == 'rock' or answer == 'scissors' and my_answer == 'paper':
