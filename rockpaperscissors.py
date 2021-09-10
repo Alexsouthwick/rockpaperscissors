@@ -1,3 +1,7 @@
+//THIS IS A COMMENT FOR ADVANCED SOFTTWARE ENGINEERING
+//HIIIIIIIII
+
+
 import random
 import time
 options = ['rock', 'paper', 'scissors']
